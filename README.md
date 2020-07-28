@@ -1,5 +1,5 @@
-# How to customize material and office2019 themes using WPF Theme Studio application?
+# How to change themes at run time using SkinManager?
 
-This sample holds the customized theme project assembly exported from ThemeStudio to load [Datagrid](https://help.syncfusion.com/wpf/datagrid/getting-started) and [Chromeless Window](https://help.syncfusion.com/wpf/chromeless-window/getting-started) with custom theme look using SkinManager [VisualStyle](https://help.syncfusion.com/wpf/themes/getting-started#apply-visual-style-to-controls) support.
+This sample loads [Datagrid](https://help.syncfusion.com/wpf/datagrid/getting-started) and [Chromeless Window](https://help.syncfusion.com/wpf/chromeless-window/getting-started) with theme look using SkinManager [VisualStyle](https://help.syncfusion.com/wpf/themes/skin-manager#set-visual-style) support. Also, it provides drop down options using [ComboBox](https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.combobox?view=netcore-3.1) to change themes at run time.
 
 ![Datagrid with custom theme](Images/Output.png)
