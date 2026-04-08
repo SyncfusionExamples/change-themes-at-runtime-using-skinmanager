@@ -1,9 +1,5 @@
 # How to change themes at run time using SkinManager?
 
-This sample loads [Datagrid](https://help.syncfusion.com/wpf/datagrid/getting-started) and [Chromeless Window](https://help.syncfusion.com/wpf/chromeless-window/getting-started) with `MaterialDark` theme look which has been applied using SkinManager [VisualStyle](https://help.syncfusion.com/wpf/themes/skin-manager#set-visual-style) property. Also, it provides drop down options using [ComboBox](https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.combobox?view=netcore-3.1) to change themes at run time.
-
-![Datagrid with custom theme](Images/Output.png)
-
 This sample demonstrates dynamic theme switching at runtime using Syncfusion's SkinManager in WPF applications.
 
 # Overview
@@ -12,10 +8,12 @@ The application showcases:
 
 * [Datagrid](https://help.syncfusion.com/wpf/datagrid/getting-started) with MaterialDark theme applied by default
 * [Chromeless Window](https://help.syncfusion.com/wpf/chromeless-window/getting-started) for modern borderless UI
-* Runtime theme switching via dropdown ComboBox
+* Runtime theme switching via dropdown [ComboBox](https://learn.microsoft.com/en-us/dotnet/api/system.windows.controls.combobox?view=windowsdesktop-10.0)
 * Multiple theme options (Material, Office2019, Fluent, etc.)
 
-Themes are applied using SkinManager's VisualStyle property, enabling seamless theme changes without application restart.
+Themes are applied using SkinManager's [VisualStyle](https://help.syncfusion.com/wpf/themes/skin-manager#set-visual-style) property, enabling seamless theme changes without application restart.
+
+![Datagrid with custom theme](Images/Output.png)
 
 # Features
 
